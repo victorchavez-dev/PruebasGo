@@ -1,0 +1,3 @@
+Hola, esta es una prueba de escritura en un fichero.
+El valor de pi es: 3.141590
+Fin del programa.
