@@ -1,0 +1,21 @@
+2026/10/25 21:09:29 Soy un log
+main():2026/10/25 21:10:07 Soy un log
+main():2026/10/25 21:13:16 Soy un log
+main():2026/10/25 21:13:23 Soy un log
+main():2026/10/25 21:13:23 Hubo un error al convertir el string a int: strconv.Atoi: parsing "123f": invalid syntax
+main():2026/10/25 21:18:28 Soy un log
+main():2026/10/25 21:18:28 Hubo un error al dividir: No se puede dividir por cero
+main():2026/10/25 21:18:28 Hubo un error al convertir el string a int: strconv.Atoi: parsing "123f": invalid syntax
+main():2026/10/25 21:21:15 Soy un log
+main():2026/10/25 21:21:15 funcion divide(): No se puede dividir por cero
+main():2026/10/25 21:21:15 Hubo un error al convertir el string a int: strconv.Atoi: parsing "123f": invalid syntax
+main():2026/10/25 21:27:41 Soy un log
+main():2026/10/25 21:29:05 Soy un log
+main():2026/10/25 21:29:05 Error al dividir: No puedes dividir por cero
+main():2026/10/25 21:29:05 Hubo un error al convertir el string a int: strconv.Atoi: parsing "123f": invalid syntax
+main():2026/10/25 21:30:52 Soy un log
+main():2026/10/25 21:30:52 function divide(): No puedes dividir por cero
+main():2026/10/25 21:30:52 Hubo un error al convertir el string a int: strconv.Atoi: parsing "123f": invalid syntax
+main():2026/10/25 21:31:13 Soy un log
+main():2026/10/25 21:31:13 function divide(): No puedes dividir por cero
+main():2026/10/25 21:31:13 Hubo un error al convertir el string a int: strconv.Atoi: parsing "123f": invalid syntax
